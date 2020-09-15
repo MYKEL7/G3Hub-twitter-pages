@@ -1,0 +1,46 @@
+body {
+    background-color: rgb(21, 32, 43);
+    font-family: 'Arimo', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    text-align: center;
+    margin: 40px;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+}
+
+img {
+    width: 3%;
+    height: 3%;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(62, 127, 224);
+    font-size: 15px;
+}
+.form {
+    width: 500px;
+    height:50px;
+    border: transparent;
+    background-color: rgb(30, 41, 53);
+    font-size: 15px;
+    padding-left: 20px;
+    border-bottom: 2px solid rgb(164, 185, 209);
+}
+
+.button {
+    background: rgb(40, 83, 133);
+    color:rgb(197, 169, 169);
+    width: 500px;
+    font-size:20px;
+    font-weight:bold;
+    height:50px;
+    border-radius: 20px;
+}
