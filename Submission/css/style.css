@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-    color: white;
+    color: blue;
     font-size: 20px;
 }
 
@@ -21,14 +21,14 @@ img {
 }
 
 a {
-    text-decoration: none;
+    text-decoration: dashed;
     color:rgb(62, 127, 224);
     font-size: 15px;
 }
 .form {
     width: 500px;
     height:50px;
-    border: transparent;
+    border: 0rex;
     background-color: rgb(30, 41, 53);
     font-size: 15px;
     padding-left: 20px;
@@ -38,9 +38,9 @@ a {
 .button {
     background: rgb(40, 83, 133);
     color:rgb(197, 169, 169);
-    width: 500px;
+    width: 400px;
     font-size:20px;
-    font-weight:bold;
+    font-weight: 100;
     height:50px;
-    border-radius: 20px;
+    border-radius: 90px;
 }
